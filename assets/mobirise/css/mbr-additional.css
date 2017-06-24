@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-size: 18px;
+}
+#content5-1 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 36px;
+  font-family: 'Arimo', sans-serif;
+}
+#content5-1 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1 .mbr-article {
+  color: #fff;
+}
+#content5-1 .mbr-article P {
+  text-align: center;
+  font-size: 16px;
+}
+#content5-3 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #000000;
+}
+#content5-3 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #494343;
+}
+#content5-3 .mbr-article {
+  color: #fff;
+}
+#content5-3 .mbr-article P {
+  color: #494343;
+}
+#content5-4 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #000000;
+  font-size: 17px;
+}
+#content5-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-article {
+  color: #fff;
+}
+#content5-4 .mbr-article P {
+  color: #494343;
+}
+#content5-4 .mbr-article BLOCKQUOTE {
+  color: #494343;
+}
+#msg-box3-5 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5 .btn {
+  font-size: 12px;
+}
+#video2-6 SMALL {
+  font-size: 18px;
+}
+#image2-7 SMALL {
+  font-size: 18px;
+}
+#image2-8 SMALL {
+  font-size: 18px;
+}
+#image2-9 SMALL {
+  font-size: 18px;
+}
+#msg-box3-10 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-10 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-10 .mbr-article P {
+  text-align: center;
+}

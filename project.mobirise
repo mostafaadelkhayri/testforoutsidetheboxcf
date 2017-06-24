@@ -1,0 +1,623 @@
+{
+  "settings": {
+    "currentPage": "Welcome",
+    "versionFirst": "2.11",
+    "versionPublish": "3.12.1",
+    "name": "Template 3 (outsidethebox.cf)",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "favicon": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "noImageResize": "",
+    "uniqCompNum": 0
+  },
+  "pages": {
+    "Welcome": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/discover-mobile-350x350-53-128x128-450.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.freeforums.net/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MOBIRISEFORUM</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/one-page.html\" target=\"_blank\">ONE PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/slider.html\" target=\"_blank\">SLIDER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/video-background.html\" target=\"_blank\">VIDEO BG</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com/bootstrap-template/blog.html\" target=\"_blank\">BLOG</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR LINK HERE</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "36px",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/iphone-6-458153-1920-1920x1285-16-1920x1285-59.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>FREE MOBIRISE TEMPLATE",
+          "meta": "",
+          "text": "<p>Make your own bootstrap-based site in minutes!</p><p>Original Template Created By Mobirise Recreated by STC Admin and Added \"Project.Mobirise File\"</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
+          "_anchor": "features1-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/one-page-2509x1670-22-1400x932-61.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "ONE PAGE BOOTSTRAP TEMPLATE DEMO",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com/bootstrap-template/one-page.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW DEMO</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slider-2511x1674-11-600x400-95.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "FULL SCREEN SLIDER HEADER DEMO",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com/bootstrap-template/slider.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW DEMO</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/video-bg-2510x1672-73-1400x933-30.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "VIDEO BACKGROUND JUMBOTRON DEMO",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com/bootstrap-template/video-background.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW DEMO</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blog-2511x1670-3-600x399-90.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "BOOTSTRAP BLOG TEMPLATE DEMO",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com/bootstrap-template/blog.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW DEMO</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "color": "#494343"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#494343"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": true,
+            "darkBackground": true
+          },
+          "title": "<br>MOBIRISE FREE BOOTSTRAP TEMPLATE",
+          "meta": "Free and easy-to-use bootstrap theme",
+          "text": "<p>Mobirise Template is a free bootstrap template for any business, portfolio websites or blogs. Great for product, services landing pages, it is 100% mobile-friendly and looks amazing on any device. The theme includes a lot of rich features and addons that you can use as a great starting point for your next Bootstrap based project. The template is free for commercial and personal use; backlinks are not required but always appreciated.</p><p><br></p><p><b>D e m o &nbsp;P a g e s:</b></p><blockquote><p>One Page Template</p><p>Slider and Parallax Template</p><p>Video background Template</p><p>Blog Template</p></blockquote><p><br></p><p><b>F e a t u r e s:</b></p><blockquote><p>100% mobile-friendly and responsive - great on all devices</p><p>Touch swipe support</p><p>Zero-coding template editor included - click-and-drag only</p><p>Clean and clear HTML5 and CSS3&nbsp;</p><p>Bootstrap 3 and jQuery powered</p><p>Search-engines friendly - SEO optimized</p><p>CSS3 hardware accelerated animations</p><p>HTML5 retina enabled</p><p>Landscape and portrait mode</p><p>100% width or boxed layout</p><p>Multiple page or one-page design</p><p>Google fonts support</p><p>Flat style</p><p>Parallax scrolling for all elements</p><p>Video, image, solid color background for all elements</p><p>Color transparent overlay over video or image background</p><p>Multiple cover styles</p><p>Unlimited font, backround and button colors</p><p>Left, center, and right aligned intro headers&nbsp;</p></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "17px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#494343"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "color": "#494343"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#ffffff",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Design Elements:",
+          "meta": "",
+          "text": "<blockquote><p>Bootstrap-based image slider with titles, description text and call-to-action buttons</p><p>Full-screen slideshow header intro</p><p>Masonry-style gallery with lightbox popup&nbsp;</p><p>Full-screen, boxed or full-width jumbotrons</p><p>Promo blocks with video or image</p><p>Static/sticky top menu that collapses to \"hamburger\" on mobiles</p><p>Call-to-action buttons in top menu</p><p>Social Sharing - Twitter, Facebook, Google+ with automatic counter</p><p>Follow us buttons - Twitter, Facebook, Google+, YouTube, Instagram, Pinterest, Behance, Tumblr, LinkedIn, Google Play etc..</p><p>Unlimited Blog, Portfolio, Staff and Testimonial Pages</p><p>Responsive contact forms</p><p>Mobile overlay floating navigation</p><p>Colorful price tables</p><p>Google maps</p><p>Font icons for bottons and menus</p><p>Custom logo and favicon</p><p>Footer block 1-6 columns</p><p>Footer contact forms and Google mapsFull-screen slideshow header intro</p></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "msg-box3",
+          "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
+          "_anchor": "msg-box3-5",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>This free template suited for small business, product presentation, personal portfolio, online and offline companies. The template features a sticky navigation with smooth scrolling to sections, key differences with colorful icons, company story, feedback quotes, \"about us\" and blog feed.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR LINK HERE</a>"
+        },
+        {
+          "_styles": {
+            "SMALL": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "video2",
+          "_anchor": "video2-6",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/one-page-2509x1670-22-1400x932-87.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "https://mobirise.com/bootstrap-template/one-page.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": "on",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "The included one-page demo comes with a fresh and catchy look. Parallax background scrolling makes it smooth and elegant. The template offers subtle colors for buttons and fonts that make it look professional."
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "image2-7",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slider-2511x1674-33-1400x933-20.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "https://mobirise.com/bootstrap-template/slider.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": "on"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Slider and Parallax Template - Build engaging multi-page sites and single-page sites. Impress your visitors with built-in smooth scrolling extension that integrates hardware accelerated parallax. Add slider, slideshow, lightbox and gallery with minimum efforts.<br>"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "image2-8",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/video-bg-2510x1672-73-1400x933-28.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "https://mobirise.com/bootstrap-template/video-background.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": "on"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Video background template is a flexible, pro-made template with a range of unique ideas, pre-designed blocks, a components and extensions. Build a beautiful website that performs well on desktop, mobile and tablet."
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "image2-9",
+          "_params": {
+            "outside": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blog-2511x1670-64-1400x931-93.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "https://mobirise.com/bootstrap-template/blog.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": "on"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_customCSS": ".btn  {\nborder-radius: 24px;\n  }  \n",
+          "_anchor": "msg-box3-10",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imac-605421-1920-1920x1275-41-1400x930-97.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "FREE LICENSE TERMS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise Bootstrap Template is free, you may use them in any personal or business projects without any charge. Backlinks and credits are appreciated but not mandatory.</p><p>You may not redistribute or resale this template, modified or unmodified.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://mobirise.freeforums.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUR LINK HERE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016&nbsp;Original Template Created By Mobirise Recreated by STC Admin"
+        }
+      ]
+    }
+  }
+}
